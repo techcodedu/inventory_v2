@@ -1,3 +1,4 @@
+```html
 inventory-system/
 │
 ├── assets/
@@ -46,3 +47,5 @@ inventory-system/
 ├── login.php
 ├── logout.php
 └── index.php (Landing page, possibly with role-based redirection to dashboard)
+
+```
